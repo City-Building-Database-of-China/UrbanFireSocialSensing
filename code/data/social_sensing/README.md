@@ -1,0 +1,5 @@
+# Shanghai social-sensing data
+
+The 420-row table contains deduplicated anonymous event aggregates derived from 446 selected posts. The 446-row table contains retained-record manual-validation judgements: 427 valid and 19 rejected. These tables represent different analysis units and are not joined by record position. Only existing LLM judgements and final consensus labels are released; individual reviewer labels are not inferred. Original narratives, platform identifiers and precise locations are not redistributed. Binary has_coordinates, has_place_name and has_address fields indicate availability only; they contain no location values.
+
+The manual-validation table preserves all supplied rows, including repeated anonymous keys: 446 rows contain 419 distinct `public_record_id` values. This field is a retained anonymous source key, not a unique row index. Counts of valid and rejected judgements refer to rows; do not deduplicate or join this table to the event aggregates on row position.

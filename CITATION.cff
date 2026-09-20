@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying study and this repository when using the code or permitted source data."
+type: software
+title: "Coupled socio-physical systems govern urban fire risk"
+authors:
+  - family-names: He
+    given-names: Zirui
+  - family-names: Deng
+    given-names: Minghao
+  - family-names: Jing
+    given-names: Rui
+  - family-names: Wang
+    given-names: Meng
+  - family-names: Wang
+    given-names: Chenghao
+  - family-names: Feron
+    given-names: Sarah
+  - family-names: Cordero
+    given-names: Raúl R.
+repository-code: "https://github.com/City-Building-Database-of-China/UrbanFireSocialSensing"
+abstract: "Processed figure source data and an anonymized Shanghai demonstration of a shared nine-predictor urban fire risk workflow. The MIT license applies to software code only; see DATA_USAGE.md for data and figure usage."
+license: MIT

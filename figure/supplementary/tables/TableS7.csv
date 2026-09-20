@@ -1,0 +1,9 @@
+parameter,setting
+n_estimators,200
+max_depth,6
+learning_rate,0.05
+subsample,0.90
+colsample_bytree,0.90
+eval_metric,logloss
+random_state,42
+Cross-validation,"StratifiedKFold(5, shuffle=True, random_state=42)"

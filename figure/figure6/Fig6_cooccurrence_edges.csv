@@ -1,0 +1,87 @@
+panel,cluster_cn,cluster_en,source_stage,source_term_cn,source_term_en,target_stage,target_term_cn,target_term_en,edge_type,cooccurrence_count
+a,老破小,Aging low-rise stock,trigger,电动自行车起火,E-bike,catalyst,楼道楼梯间堆物占用,Stairwell clutter,trigger_to_catalyst,6
+a,老破小,Aging low-rise stock,trigger,充电过程异常起火,Charging anomaly,catalyst,楼道楼梯间堆物占用,Stairwell clutter,trigger_to_catalyst,2
+a,老破小,Aging low-rise stock,trigger,其他,Others,catalyst,后厨油污明火环境,Grease-laden kitchens,trigger_to_catalyst,2
+a,老破小,Aging low-rise stock,trigger,电动自行车起火,E-bike,catalyst,可燃物暴露堆积,Exposed combustibles,trigger_to_catalyst,2
+a,老破小,Aging low-rise stock,trigger,电动自行车起火,E-bike,catalyst,地下空间烟热蓄积,Underground smoke/heat,trigger_to_catalyst,2
+a,老破小,Aging low-rise stock,trigger,电气线路短路起火,Electrical short-circuit,catalyst,市场商铺货物密集,Dense market storage,trigger_to_catalyst,2
+a,老破小,Aging low-rise stock,trigger,锂电池热失控起火,Li-battery thermal runaway,catalyst,楼内杂物堆积,In-building debris,trigger_to_catalyst,2
+a,老破小,Aging low-rise stock,trigger,锂电池热失控起火,Li-battery thermal runaway,catalyst,楼道楼梯间堆物占用,Stairwell clutter,trigger_to_catalyst,2
+a,老破小,Aging low-rise stock,trigger,充电过程异常起火,Charging anomaly,catalyst,后厨油污明火环境,Grease-laden kitchens,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,其他,Others,catalyst,可燃物暴露堆积,Exposed combustibles,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,其他,Others,catalyst,楼内杂物堆积,In-building debris,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,其他,Others,catalyst,楼道楼梯间堆物占用,Stairwell clutter,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,新能源汽车电池起火,NEV battery,catalyst,市场商铺货物密集,Dense market storage,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,新能源汽车电池起火,NEV battery,catalyst,楼内杂物堆积,In-building debris,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,机动车辆自燃起火,Motor-vehicle,catalyst,仓库堆场物料堆积,Warehouse stockpiling,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,机动车辆自燃起火,Motor-vehicle,catalyst,可燃物暴露堆积,Exposed combustibles,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,烟头遗留火种,Cigarette ignition,catalyst,可燃物暴露堆积,Exposed combustibles,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,烟头遗留火种,Cigarette ignition,catalyst,后厨油污明火环境,Grease-laden kitchens,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,烟头遗留火种,Cigarette ignition,catalyst,市场商铺货物密集,Dense market storage,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,烟花爆竹燃放引燃,Firework ignition,catalyst,地下空间烟热蓄积,Underground smoke/heat,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,燃气泄漏爆燃,Gas leak deflagration,catalyst,后厨油污明火环境,Grease-laden kitchens,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,燃气泄漏爆燃,Gas leak deflagration,catalyst,楼道楼梯间堆物占用,Stairwell clutter,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,燃气泄漏爆燃,Gas leak deflagration,catalyst,老旧线路持续带病运行,Deteriorated wiring,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,电动自行车起火,E-bike,catalyst,市场商铺货物密集,Dense market storage,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,电动自行车起火,E-bike,catalyst,楼内杂物堆积,In-building debris,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,电动车相关起火,EV-related,catalyst,后厨油污明火环境,Grease-laden kitchens,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,电动车相关起火,EV-related,catalyst,楼道楼梯间堆物占用,Stairwell clutter,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,电气线路短路起火,Electrical short-circuit,catalyst,可燃物暴露堆积,Exposed combustibles,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,电气线路短路起火,Electrical short-circuit,catalyst,后厨油污明火环境,Grease-laden kitchens,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,电气线路短路起火,Electrical short-circuit,catalyst,楼内杂物堆积,In-building debris,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,电气线路短路起火,Electrical short-circuit,catalyst,楼道楼梯间堆物占用,Stairwell clutter,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,电气线路短路起火,Electrical short-circuit,catalyst,老旧线路持续带病运行,Deteriorated wiring,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,trigger,锂电池热失控起火,Li-battery thermal runaway,catalyst,可燃物暴露堆积,Exposed combustibles,trigger_to_catalyst,1
+a,老破小,Aging low-rise stock,catalyst,楼道楼梯间堆物占用,Stairwell clutter,failure,初期灭火报警设施不可用,Alarm/suppression unavail.,catalyst_to_failure,7
+a,老破小,Aging low-rise stock,catalyst,后厨油污明火环境,Grease-laden kitchens,failure,初期灭火报警设施不可用,Alarm/suppression unavail.,catalyst_to_failure,4
+a,老破小,Aging low-rise stock,catalyst,楼道楼梯间堆物占用,Stairwell clutter,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,4
+a,老破小,Aging low-rise stock,catalyst,市场商铺货物密集,Dense market storage,failure,初期灭火报警设施不可用,Alarm/suppression unavail.,catalyst_to_failure,3
+a,老破小,Aging low-rise stock,catalyst,可燃物暴露堆积,Exposed combustibles,failure,初期灭火报警设施不可用,Alarm/suppression unavail.,catalyst_to_failure,2
+a,老破小,Aging low-rise stock,catalyst,后厨油污明火环境,Grease-laden kitchens,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,2
+a,老破小,Aging low-rise stock,catalyst,地下空间烟热蓄积,Underground smoke/heat,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,2
+a,老破小,Aging low-rise stock,catalyst,楼内杂物堆积,In-building debris,failure,初期灭火报警设施不可用,Alarm/suppression unavail.,catalyst_to_failure,2
+a,老破小,Aging low-rise stock,catalyst,楼内杂物堆积,In-building debris,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,2
+a,老破小,Aging low-rise stock,catalyst,楼道楼梯间堆物占用,Stairwell clutter,failure,疏散通道堆物堵塞,Evacuation route blocked,catalyst_to_failure,2
+a,老破小,Aging low-rise stock,catalyst,厂房车间作业暴露,Workshop exposure,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,可燃物暴露堆积,Exposed combustibles,failure,安全出口锁闭封堵,Emergency exit blocked,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,可燃物暴露堆积,Exposed combustibles,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,可燃物暴露堆积,Exposed combustibles,failure,电动自行车入户停放阻碍处置,Indoor e-bike parking,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,可燃物暴露堆积,Exposed combustibles,failure,疏散通道堆物堵塞,Evacuation route blocked,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,可燃物暴露堆积,Exposed combustibles,failure,私拉乱接电线失管,Unmanaged illegal wiring,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,后厨油污明火环境,Grease-laden kitchens,failure,安全出口锁闭封堵,Emergency exit blocked,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,后厨油污明火环境,Grease-laden kitchens,failure,用火用电无人看管,Unattended fire/elec. use,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,后厨油污明火环境,Grease-laden kitchens,failure,电动自行车入户停放阻碍处置,Indoor e-bike parking,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,后厨油污明火环境,Grease-laden kitchens,failure,疏散通道堆物堵塞,Evacuation route blocked,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,地下空间烟热蓄积,Underground smoke/heat,failure,初期灭火报警设施不可用,Alarm/suppression unavail.,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,市场商铺货物密集,Dense market storage,failure,安全出口锁闭封堵,Emergency exit blocked,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,市场商铺货物密集,Dense market storage,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,楼内杂物堆积,In-building debris,failure,安全出口锁闭封堵,Emergency exit blocked,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,楼内杂物堆积,In-building debris,failure,电动自行车入户停放阻碍处置,Indoor e-bike parking,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,楼内杂物堆积,In-building debris,failure,疏散通道堆物堵塞,Evacuation route blocked,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,楼道楼梯间堆物占用,Stairwell clutter,failure,安全出口锁闭封堵,Emergency exit blocked,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,楼道楼梯间堆物占用,Stairwell clutter,failure,电动自行车入户停放阻碍处置,Indoor e-bike parking,catalyst_to_failure,1
+a,老破小,Aging low-rise stock,catalyst,老旧线路持续带病运行,Deteriorated wiring,failure,用火用电无人看管,Unattended fire/elec. use,catalyst_to_failure,1
+b,超高层,High-rise vertical stock,trigger,电动自行车起火,E-bike,catalyst,楼道楼梯间堆物占用,Stairwell clutter,trigger_to_catalyst,15
+b,超高层,High-rise vertical stock,trigger,充电过程异常起火,Charging anomaly,catalyst,地下空间烟热蓄积,Underground smoke/heat,trigger_to_catalyst,1
+b,超高层,High-rise vertical stock,trigger,其他,Others,catalyst,市场商铺货物密集,Dense market storage,trigger_to_catalyst,1
+b,超高层,High-rise vertical stock,trigger,机动车辆自燃起火,Motor-vehicle,catalyst,可燃物暴露堆积,Exposed combustibles,trigger_to_catalyst,1
+b,超高层,High-rise vertical stock,trigger,烟头遗留火种,Cigarette ignition,catalyst,其他,Others,trigger_to_catalyst,1
+b,超高层,High-rise vertical stock,trigger,烟头遗留火种,Cigarette ignition,catalyst,后厨油污明火环境,Grease-laden kitchens,trigger_to_catalyst,1
+b,超高层,High-rise vertical stock,trigger,燃气泄漏爆燃,Gas leak deflagration,catalyst,楼道楼梯间堆物占用,Stairwell clutter,trigger_to_catalyst,1
+b,超高层,High-rise vertical stock,trigger,电动自行车起火,E-bike,catalyst,可燃物暴露堆积,Exposed combustibles,trigger_to_catalyst,1
+b,超高层,High-rise vertical stock,trigger,电动自行车起火,E-bike,catalyst,地下空间烟热蓄积,Underground smoke/heat,trigger_to_catalyst,1
+b,超高层,High-rise vertical stock,trigger,电动自行车起火,E-bike,catalyst,楼内杂物堆积,In-building debris,trigger_to_catalyst,1
+b,超高层,High-rise vertical stock,trigger,电气线路短路起火,Electrical short-circuit,catalyst,其他,Others,trigger_to_catalyst,1
+b,超高层,High-rise vertical stock,catalyst,楼道楼梯间堆物占用,Stairwell clutter,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,9
+b,超高层,High-rise vertical stock,catalyst,可燃物暴露堆积,Exposed combustibles,failure,初期灭火报警设施不可用,Alarm/suppression unavail.,catalyst_to_failure,2
+b,超高层,High-rise vertical stock,catalyst,市场商铺货物密集,Dense market storage,failure,初期灭火报警设施不可用,Alarm/suppression unavail.,catalyst_to_failure,2
+b,超高层,High-rise vertical stock,catalyst,楼内杂物堆积,In-building debris,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,2
+b,超高层,High-rise vertical stock,catalyst,其他,Others,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,1
+b,超高层,High-rise vertical stock,catalyst,其他,Others,failure,电动自行车入户停放阻碍处置,Indoor e-bike parking,catalyst_to_failure,1
+b,超高层,High-rise vertical stock,catalyst,可燃物暴露堆积,Exposed combustibles,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,1
+b,超高层,High-rise vertical stock,catalyst,后厨油污明火环境,Grease-laden kitchens,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,1
+b,超高层,High-rise vertical stock,catalyst,后厨油污明火环境,Grease-laden kitchens,failure,电动自行车入户停放阻碍处置,Indoor e-bike parking,catalyst_to_failure,1
+b,超高层,High-rise vertical stock,catalyst,地下空间烟热蓄积,Underground smoke/heat,failure,集中充电设施供给不足,Insufficient charging infra.,catalyst_to_failure,1
+b,超高层,High-rise vertical stock,catalyst,市场商铺货物密集,Dense market storage,failure,物业巡查与初期处置失效,Patrol & initial response,catalyst_to_failure,1
+b,超高层,High-rise vertical stock,catalyst,楼内杂物堆积,In-building debris,failure,电动自行车入户停放阻碍处置,Indoor e-bike parking,catalyst_to_failure,1
+b,超高层,High-rise vertical stock,catalyst,楼道楼梯间堆物占用,Stairwell clutter,failure,电动自行车入户停放阻碍处置,Indoor e-bike parking,catalyst_to_failure,1

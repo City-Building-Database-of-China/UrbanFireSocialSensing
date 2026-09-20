@@ -1,0 +1,5 @@
+city,building_count,total_floor_area_million_m2,median_height_m,median_age_years,population_10000_people
+Beijing,"299,889","1,098.3",15.0,22.0,"2,260.1"
+Shanghai,"318,406",967.5,15.0,19.0,"2,010.7"
+Guangzhou,"196,584",591.5,12.0,22.0,654.9
+Wuhan,"127,850",564.9,15.0,19.0,412.0

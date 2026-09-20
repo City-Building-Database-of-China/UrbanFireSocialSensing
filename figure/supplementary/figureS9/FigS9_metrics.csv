@@ -1,0 +1,5 @@
+dataset,metric,value
+Chongqing external validation,AUROC,0.6552371330143231
+Chongqing external validation,AUPRC,0.002610763292161279
+Chongqing external validation,Brier score,0.0013180030539713542
+Chongqing external validation,Log loss,0.010261363674417236

@@ -1,0 +1,4 @@
+metric_group,sample,proxy,n,pearson_r,pearson_r_squared,no_intercept_regression_r2,spearman_rho,status,note
+temporal_monthly,2020,weibo_dedup_events,12,0.7268161865504065,0.5282617690316752,,0.6573426573426573,ok,
+province_share,2020,weibo_dedup_events,31,0.811915172167098,0.6592062467951283,,0.8139558706610589,ok,
+sampling_multiplier,2020,weibo_dedup_events,29,0.7953296806916194,,0.8496166518571566,0.7748214080918614,ok,no-intercept beta=471.452; ratio median=544.756; IQR=436.952-792.913; CV=1.284

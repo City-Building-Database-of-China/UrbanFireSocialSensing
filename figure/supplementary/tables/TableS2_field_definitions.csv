@@ -1,0 +1,19 @@
+category,inventory_field,public_scope
+geographics,"X, Y coordinate",definition only; precise spatial attributes withheld
+,Footprint area,definition and selected processed/anonymous derivatives
+,Building height,definition and selected processed/anonymous derivatives
+,Number of floors,definition and selected processed/anonymous derivatives
+,Building usage,definition and selected processed/anonymous derivatives
+,Building name,definition only; precise spatial attributes withheld
+,Building age (construction year),definition and selected processed/anonymous derivatives
+demographic,Population,definition and selected processed/anonymous derivatives
+,Population age structure,definition and selected processed/anonymous derivatives
+socio-economic,Housing price,definition and selected processed/anonymous derivatives
+,Property management fee,definition and selected processed/anonymous derivatives
+,Plot ratio,definition and selected processed/anonymous derivatives
+,Number of households,definition and selected processed/anonymous derivatives
+energy,Energy use intensity (EUI),definition and selected processed/anonymous derivatives
+,Total energy consumption,definition and selected processed/anonymous derivatives
+fire,Fire incidence label,definition and selected processed/anonymous derivatives
+,Fire occurrence time,definition and selected processed/anonymous derivatives
+,"Fire location (longitude, latitude)",definition only; precise spatial attributes withheld

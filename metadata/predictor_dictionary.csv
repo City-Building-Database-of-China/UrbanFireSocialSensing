@@ -1,0 +1,10 @@
+predictor,meaning,definition,unit
+Projected_Area,"Building footprint size, used as a proxy for building scale and exposed plan area.",Projected_Area = Area.,m²
+Height,Vertical building scale.,Height = Height.,m
+Plot_Ratio,Development intensity represented by floor-area ratio.,Plot_Ratio equals the recorded floor-area ratio,dimensionless
+Effective_Age,Approximate building age relative to the 2022 reference year.,Effective_Age = 2022 - Age. ,years
+Mean_Age_Score,Population age-composition score incorporating younger and older age groups.,Population-weighted age-bin score = [2 × (f_0_2 + m_0_2) + 12 × (f_5_2 + m_5_2) + 20 × (f_15_2 + m_15_2) + 35 × (f_25_2 + m_25_2) + 55 × (f_45_2 + m_45_2) + 75 × (f_65abv_2 + m_65abv_2)] / Real_Total_Pop.,years-like score
+Pop_Density,Population intensity normalized by estimated total building floor area.,Real_Total_Pop is the sum of the 12 sex-by-age-bin fields. Total_Built_Area = Projected_Area × Fnum. Pop_Density = Real_Total_Pop / Total_Built_Area.,persons m⁻² floor area
+Price,Local housing sale-price level.,Price equals the recorded average housing price,CNY m⁻²
+Fee,Property management fee level.,Fee equals the recorded property management fee,CNY m⁻² month⁻¹
+EUI,Building energy-use intensity.,EUI equals the UBEM-derived electricity facility energy-use intensity,kWh m⁻² (source label: kWh/sqm)

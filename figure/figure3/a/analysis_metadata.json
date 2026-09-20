@@ -1,0 +1,18 @@
+{
+  "observation_start_year": 2016,
+  "observation_end_year": 2025,
+  "observation_period": "2016–2025",
+  "population": "residential buildings",
+  "age_bins": [
+    "0-10y",
+    "10-20y",
+    "20-30y",
+    "30-40y",
+    "40-50y",
+    "50-60y",
+    "60-70y",
+    "70y+"
+  ],
+  "rate_definition": "1000 * fire_count / exposure_building_years",
+  "data_role": "Processed manuscript source values"
+}

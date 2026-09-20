@@ -1,0 +1,15 @@
+{
+  "title": "Coupled socio-physical systems govern urban fire risk",
+  "repository": "https://github.com/City-Building-Database-of-China/UrbanFireSocialSensing",
+  "cities": [
+    "Beijing",
+    "Shanghai",
+    "Guangzhou",
+    "Wuhan"
+  ],
+  "inventory_count": 942729,
+  "age_analysis_start_year": 2016,
+  "age_analysis_end_year": 2025,
+  "manuscript_data": "Processed figure and supplementary source data",
+  "executable_data": "Fixed case-enriched Shanghai 10000-row demo"
+}

@@ -1,0 +1,10 @@
+rank,predictor,mean_abs_shap
+1,Projected_Area,0.696
+2,Mean_Age_Score,0.352
+3,Height,0.224
+4,Pop_Density,0.146
+5,Price,0.128
+6,Effective_Age,0.108
+7,Plot_Ratio,0.107
+8,Fee,0.103
+9,EUI,0.093

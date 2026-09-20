@@ -1,0 +1,13 @@
+stage,n,unit
+candidate_posts,91082,posts
+LLM_retained_posts,11115,posts
+retained_posts_2016_2025,7939,posts
+deduplicated_event_proxies,7227,event proxies
+four_city_inventory,942729,inventory records
+residential_inventory,511351,inventory records
+complete_analysis_sample,318760,analysis observations
+positive_analysis_records,367,analysis observations
+Shanghai_manual_validation,446,records
+Shanghai_valid,427,records
+Shanghai_rejected,19,records
+Shanghai_public_event_aggregates,420,event aggregates

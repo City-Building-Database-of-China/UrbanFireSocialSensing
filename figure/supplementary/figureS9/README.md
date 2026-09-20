@@ -1,0 +1,3 @@
+# Figure S9
+
+Panel a presents a spatial application; precise prediction locations are not redistributed. The public tables provide model metrics, five grade counts and SIF counts, incidence, cumulative capture and fixed development thresholds. The grade boundaries come from the four-city OOF distribution (50%, 75%, 90%, 97.5% linear quantiles) and are applied unchanged to Chongqing. They are not recalculated from Chongqing outcomes; Top 2.5%, 10% and 25% refer to development ranks. Chongqing evaluation comprises 54,132 observations and 71 SIF-positive observations. No Chongqing row-level matrix is supplied.

@@ -1,0 +1,5 @@
+metric,value,calculation,scope
+AUROC,0.6806520243456299,sklearn.metrics.roc_auc_score,Shanghai demo OOF
+AUPRC,0.038255253531256,sklearn.metrics.average_precision_score,Shanghai demo OOF
+Brier score,0.01892912915420949,sklearn.metrics.brier_score_loss,Shanghai demo OOF
+Log loss,0.09504638134181677,sklearn.metrics.log_loss,Shanghai demo OOF

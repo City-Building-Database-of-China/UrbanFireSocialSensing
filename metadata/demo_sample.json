@@ -1,0 +1,8 @@
+{
+  "rows": 10000,
+  "positives": 191,
+  "negatives": 9809,
+  "sampling": "Case-enriched fixed Shanghai sample; no re-sampling during execution",
+  "filename": "demo/data/shanghai_buildings_anonymized_10k.csv",
+  "sha256": "4214546c0fab58db6afe469eaabc213c4956ddfe864d10dc77eb686e86f2f678"
+}

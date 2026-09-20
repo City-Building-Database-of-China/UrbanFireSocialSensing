@@ -1,0 +1,15 @@
+{
+  "analysis_year": 2020,
+  "official_source": "China Fire and Rescue Yearbook, author-supplied 2020 tables",
+  "official_total_fire_count": 681498,
+  "share_unit": "fraction of the corresponding annual total, not percent",
+  "temporal_proxy_events": 1325,
+  "spatial_proxy_events": 1293,
+  "temporal_inclusion": "2020 records with valid posting month; deduplicated by date and rounded coordinates.",
+  "spatial_inclusion": "2020 records with identifiable province; deduplicated by province, date and rounded coordinates.",
+  "coordinate_rounding_decimals_private_preprocessing": 3,
+  "sampling_regression": "Official counts recovered from shares and annual total; no intercept; exclude provinces with zero proxy events.",
+  "spatial_figure_selection": "Show top 15 provinces by official share; calculate correlation on all 31 provinces.",
+  "year_pooling": false,
+  "public_scope": "Derived aggregate shares and proxy counts only. No social-media text, identifiers, coordinates, complete yearbook or source-document images."
+}

@@ -1,0 +1,5 @@
+development_quantile,cutoff,method
+0.5,0.0005811346345581114,numpy.quantile linear; upper interval boundary included in lower grade
+0.75,0.0013589144218713047,numpy.quantile linear; upper interval boundary included in lower grade
+0.9,0.002427014615386725,numpy.quantile linear; upper interval boundary included in lower grade
+0.975,0.004824680881574742,numpy.quantile linear; upper interval boundary included in lower grade

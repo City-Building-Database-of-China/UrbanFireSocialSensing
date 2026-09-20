@@ -1,0 +1,6 @@
+metric,value,unit
+deduplicated_events,149.0,events
+matched_within_500m,138.0,events
+no_footprint_within_radius,8.0,events
+no_usable_location,3.0,events
+matched_share_reported,92.6,percent
