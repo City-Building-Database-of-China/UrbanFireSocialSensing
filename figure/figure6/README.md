@@ -1,3 +1,5 @@
 # Figure 6
 
+Final manuscript figure: [Download Figure 6 (TIFF)](fig6.tif).
+
 The files contain the final plotting categories and profile-specific co-occurrence edges. Panel a is aging low-rise stock (Top10 plus Others); panel b is high-rise vertical stock, representing the super-high-rise profile (Top6 plus Others). Node percentages are layer-normalized term-frequency shares after the plotted-flow selection. display_pct uses largest-remainder rounding to sum to 100% within a profile and layer. Edge weights count co-occurrences, so their sums need not equal node frequencies or numbers of incidents. All inputs are category-level aggregates; no original social-media narratives are supplied.

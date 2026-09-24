@@ -1,5 +1,7 @@
 # Figure 5
 
+Final manuscript figure: [Download Figure 5 (TIFF)](fig5.tif). This is the final manuscript artwork; the accompanying point CSVs are the sampled public data described below.
+
 The model contains exactly nine predictors. Panel a supplies the full-data global importance summary and sampled feature distributions; panel b supplies the city-specific directional importance summary. Panels c–j supply sampled dependence points for Projected_Area, Mean_Age_Score, Height, Pop_Density, Price, Effective_Age, Plot_Ratio and Fee. EUI contributes to panel a only. The points in c–j are also used for the corresponding distributions in panel a.
 
 The two importance summary tables are retained unchanged in this update; they have not been recalculated from the sampled points. SHAP values are on the raw model-margin scale. Predictor definitions are in [predictor_dictionary.csv](../../metadata/predictor_dictionary.csv).
