@@ -18,6 +18,21 @@ The public package combines processed figure and supplementary source data with 
 4. A model fitted to all supplied observations supports SHAP importance and dependence analysis.
 5. Processed source tables document the manuscript figures, supplementary analyses and external assessment.
 
+### Study workflow
+
+<table>
+  <tr>
+    <th align="center">Study workflow</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/readme/study_workflow.png"
+           alt="Urban fire social-sensing and building-analysis workflow"
+           width="100%">
+    </td>
+  </tr>
+</table>
+
 ## Data availability and public release boundary
 
 The public data include:
