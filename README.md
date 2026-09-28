@@ -46,6 +46,31 @@ The complete four-city building-level model matrix and Chongqing building-level 
 
 Processed plotting points and anonymous grid indices support inspection of figure values. They do not provide a geographic transform or a complete building-level model matrix. See [`DATA_USAGE.md`](DATA_USAGE.md) for reuse conditions.
 
+### Shanghai building and SIF overview
+
+The Shanghai example illustrates the building-resolved urban context and the spatial distribution of socially sensed fire events used in the study.
+
+<table>
+  <tr>
+    <th width="50%" align="center">City-scale overview</th>
+    <th width="50%" align="center">Detailed urban view</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/readme/shanghai_sif_overview.png"
+           alt="City-scale view of Shanghai buildings and socially sensed fire events"
+           width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/readme/shanghai_sif_closeup.png"
+           alt="Detailed 3D view of Shanghai buildings and socially sensed fire events"
+           width="100%">
+    </td>
+  </tr>
+</table>
+
+Static visualizations of the Shanghai building context and socially sensed fire events; precise event coordinates and building-location crosswalks are not distributed in the public release.
+
 ## Repository layout
 
 ```text
